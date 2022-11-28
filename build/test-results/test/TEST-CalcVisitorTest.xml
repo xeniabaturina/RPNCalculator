@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalcVisitorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-11-28T17:49:56" hostname="DESKTOP-PGSQNV5" time="0.057">
+  <properties/>
+  <testcase name="testAdd()" classname="CalcVisitorTest" time="0.043"/>
+  <testcase name="testDiv()" classname="CalcVisitorTest" time="0.002"/>
+  <testcase name="testMul()" classname="CalcVisitorTest" time="0.002"/>
+  <testcase name="testSub()" classname="CalcVisitorTest" time="0.002"/>
+  <testcase name="testNumber()" classname="CalcVisitorTest" time="0.002"/>
+  <testcase name="testExpression()" classname="CalcVisitorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
